@@ -8,11 +8,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineer%20building%20modern%20web%20applications.;Focused%20on%20frontend%20development%20and%20full-stack%20applications%20with%20Next.js%2C%20TypeScript%2C%20databases%2C%20and%20modern%20web%20technologies." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
-
-I'm a Software Engineer focused on building modern web applications.  
-I work primarily on frontend development and build full-stack applications with Next.js, TypeScript, databases, and ORMs. I enjoy turning ideas into practical, well-structured products and continuously improving my skills across the stack.  
-Currently exploring AI and looking for opportunities to build meaningful software, learn from real-world projects, and grow as an engineer.
+## 👨‍💻 About Me  
+* 💼 **Role:** Software Engineer  
+* 🌐 **Focus:** Frontend &amp; Full-Stack Web Development  
+* ⚛️ **Stack:** Next.js, React, TypeScript  
+* 🗄️ **Backend:** APIs, Databases &amp; ORMs  
+* 🤖 **Exploring:** AI &amp; Intelligent Software Solutions  
+* 🚀 **Goal:** Building reliable, practical, and well-structured software  
+* 📚 **Learning:** Continuously expanding my skills across the stack
 
 ### 🛠️ Tech Stack
 
