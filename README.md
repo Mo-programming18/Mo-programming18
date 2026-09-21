@@ -53,4 +53,4 @@ Currently exploring AI and looking for opportunities to build meaningful softwar
   <a href="https://www.linkedin.com/in/mohammad-qannam-52b69b41b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Mo-programming18">Mo-programming18</a></i></p>
+
