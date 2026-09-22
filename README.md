@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineer%20building%20modern%20web%20applications.;Focused%20on%20frontend%20development%20and%20full-stack%20applications%20with%20Next.js%2C%20TypeScript%2C%20databases%2C%20and%20modern%20web%20technologies." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=430&height=44&lines=Software%20Engineer;Frontend%20%C2%B7%20Full%20Stack%20%C2%B7%20AI" alt="Typing headlines" />
 </p>
+
 
 
 ## 👋 About Me
