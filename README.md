@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Mo-programming18">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Mohammad%20Qannam" alt="Hello! I&#39;m Mohammad Qannam" />
+  <a href="https://github.com/MO">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=d29922&fontSize=54&height=90&width=420&text=%D8%A7%D9%86%D8%A7%20%D9%81%D9%84%D8%A7%D9%86" alt="Mohammad Qannam" />
   </a>
 </p>
 
