@@ -8,7 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=Software%20Engineer%20building%20modern%20web%20applications.;Focused%20on%20frontend%20development%20and%20full-stack%20applications%20with%20Next.js%2C%20TypeScript%2C%20databases%2C%20and%20modern%20web%20technologies." alt="Typing headlines" />
 </p>
 
-## 👋 About Me  
+<h2 align="left">
+  <img 
+    src="./assets/waving_hand_github_header.gif" 
+    width="50" 
+    height="50"
+    align="center"
+  />
+  About Me
+</h2>  
 * 💼 **Role:** Software Engineer  
 * 🌐 **Focus:** Frontend &amp; Full-Stack Web Development  
 * ⚛️ **Stack:** Next.js, React, TypeScript  
